@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+}
+.pagehead{
+    text-align: center;
+    background-color: black;
+    padding: 3rem;
+}
+.project{
+    color: aliceblue;
+    padding-bottom: 2rem;
+    font-size: 3rem;
+}
+.content{
+    padding: 2rem;
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.content h1,h2{
+color: blue;
+padding: 1rem;
+}
+img{
+    max-width: 100%;
+    padding: 1rem;
+    
+}
